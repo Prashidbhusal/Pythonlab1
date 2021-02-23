@@ -1,0 +1,1 @@
+#Write the program that takes three numbers and prints their sum. Every number is given
