@@ -1,4 +1,4 @@
-# Write a program that takes three numbers and prints their sum . Every number is given on a separate.
+#1 Write a program that takes three numbers and prints their sum . Every number is given on a separate.
 num1=float(input("enter the num1:"))
 num2=float(input("enter the num2:"))
 num3=float(input("enter the num3:"))

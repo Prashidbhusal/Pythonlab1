@@ -1,4 +1,4 @@
-# Write a program that reads the length of the base and the height of a right-angled tringle and prints the area.
+#2 Write a program that reads the length of the base and the height of a right-angled tringle and prints the area.
 # Every number is given on a separete line.
 
 length=int(input("enter the value of length: "))
