@@ -11,3 +11,10 @@ print(f"The required number of desk for first class is {desk_class1}")
 print(f"The required number of desk for second class is {desk_class2}")
 print(f"The required number of desk for third class is {desk_class3}")
 
+remain_class1=(no_student_class1%2)
+remain_class2=(no_student_class2%2)
+remain_class3=(no_student_class3%2)
+print(f"Remaining desk for first class is {remain_class1}")
+print(f"Remaining desk for second class is {remain_class2}")
+print(f"Remaining desk for third class is {remain_class3}")
+
