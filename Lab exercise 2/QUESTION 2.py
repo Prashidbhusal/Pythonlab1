@@ -1,4 +1,4 @@
-#WAP which accepts marks of four subjects and display totalo marks, percentage and grade.
+2#WAP which accepts marks of four subjects and display totalo marks, percentage and grade.
 #Hint: more then 70% ->distinction, more then 60%->first, more then 40%-> pass, less then 40%-> fail.
 
 science=int(input('enter marks of science'))
